@@ -1,6 +1,7 @@
+![I am a Front-End Web Developer.](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/270278871_707171523581457_434525691797676802_n.jpg?stp=dst-jpg_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeG4qyJlyrLSmnwTpy-A5fCJMB--35TLGOUwH77flMsY5abGXZF-Mmymxf7UmZ16ydwB_dmjMhbEK6FSaY36ddeh&_nc_ohc=DI1ojs7dmrsQ7kNvgF-CeEP&_nc_ht=scontent.fdac14-1.fna&oh=00_AYCUlmak9Hbbq-SJkjF9Vph1eIocBSZV2KlxMmbQ0zUhGA&oe=66E78446)
+
 ### Hi there 👋, This is Kawsar
 #### I am a Front-End Web Developer.
-![I am a Front-End Web Developer.](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/270278871_707171523581457_434525691797676802_n.jpg?stp=dst-jpg_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeG4qyJlyrLSmnwTpy-A5fCJMB--35TLGOUwH77flMsY5abGXZF-Mmymxf7UmZ16ydwB_dmjMhbEK6FSaY36ddeh&_nc_ohc=DI1ojs7dmrsQ7kNvgF-CeEP&_nc_ht=scontent.fdac14-1.fna&oh=00_AYCUlmak9Hbbq-SJkjF9Vph1eIocBSZV2KlxMmbQ0zUhGA&oe=66E78446)
 
 Hi, I'm a passionate Front-End Web Developer with hands-on experience in building responsive and user-friendly websites. My core skills include HTML, CSS, Bootstrap, and JavaScript, which I use to create modern web designs and functional interfaces. I also have experience with Git & GitHub for version control, ensuring smooth collaboration and project management.
 
@@ -26,10 +27,6 @@ Skills: JS / Figma / Git & GitHub / Bootstrap / CSS / HTML
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KawsarRabbi)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KawsarRabbi&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/KawsarRabbi/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/KawsarRabbi)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=KawsarRabbi)  
 
